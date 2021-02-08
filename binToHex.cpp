@@ -1,6 +1,5 @@
 //Filename: binToHex.cpp
 //Author: Jino Enriquez
-//Class: CISP 440
 //Last Date Modified: 1/20/2021
 
 
